@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="ja-jp" Name="AdventureWorksCommandSet_en-us">
+    <CommandPrefix> ローソンダッシュボード </CommandPrefix>
+    <Example> Show trip to London </Example>
+
+    <Command Name="startDashBoard">
+      <Example> show trip to London  </Example>
+      <ListenFor> を表示</ListenFor>
+      <ListenFor> を表く</ListenFor>
+      <!--<ListenFor> [で]{items}を検索</ListenFor>
+      <ListenFor> [で]{items}を入力</ListenFor>
+      <ListenFor> [から]{items}を検索</ListenFor>
+      <ListenFor> [から]{items}を入力</ListenFor>-->
+      <Feedback> ローソンダッシュボードを表示します </Feedback>
+      <Navigate/>
+    </Command>
+
+    <!--<PhraseList Label="destination">
+      <Item> London </Item>
+      <Item> Dallas </Item>
+      <Item> New York </Item>
+    </PhraseList>-->
+  </CommandSet>
+
+<!-- Other CommandSets for other languages -->
+
+</VoiceCommands>

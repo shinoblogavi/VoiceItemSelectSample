@@ -1,0 +1,2 @@
+MainPackage=c:\users\avi\documents\visual studio 2015\Projects\VoiceItemSelectSample\VoiceItemSelectSample\bin\ARM\Debug\VoiceItemSelectSample_1.0.1.0_ARM_Debug.appx
+SymbolPackage=c:\users\avi\documents\visual studio 2015\Projects\VoiceItemSelectSample\VoiceItemSelectSample\AppPackages\VoiceItemSelectSample_1.0.1.0_Debug_Test\VoiceItemSelectSample_1.0.1.0_ARM_Debug.appxsym
